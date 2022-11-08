@@ -1,5 +1,5 @@
-import { authReducer } from "../../../auth";
-import { types } from "../../../auth/types/types";
+import { authReducer } from "../../../src/auth";
+import { types } from "../../../src/auth/types/types";
 
 
 
